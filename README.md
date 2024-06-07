@@ -2,6 +2,9 @@
 
 ![Image](https://github.com/kaluma-67/SyriaTel_Customer_Churn_Rate_Analysis/blob/master/Images/Churn_Analysis_Image.png)
 
+## Project Overview
+This project aims to analyse and predict the customer churn rate in SyriaTel, to assist the Customer Service and Sales & Marketing Teams in devicing techniques to reduce churn.
+
 ## Objectives
 1. Analyze customer churn data to identify key factors contributing to customer churn.
 2. Build a predictive model to forecast customer churn.
