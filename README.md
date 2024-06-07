@@ -1,4 +1,6 @@
-# Customer Churn Analysis and Prediction for SyriaTel
+# SyriaTel Customer Churn Rate Analysis
+
+![Churn Rate Graphic](Churn Analysis Image.png)
 
 ## Objectives
 1. Analyze customer churn data to identify key factors contributing to customer churn.
